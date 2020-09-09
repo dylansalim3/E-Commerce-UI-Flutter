@@ -1,8 +1,6 @@
 # Ecomo
 
-E Commerce Demo App
-
-A Flutter Demo App for E commerce
+Flutter E Commerce Demo App
 
 ## App Screenshot
 
