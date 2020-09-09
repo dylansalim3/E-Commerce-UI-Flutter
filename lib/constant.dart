@@ -1,7 +1,7 @@
 import 'package:e_commerce/size_config.dart';
 import 'package:flutter/material.dart';
 
-const kPrimaryColor = Color(0xFFff9345);
+const kPrimaryColor = Color(0xFFff00ff);
 const kPrimaryLightColor = Color(0xFFFFECDF);
 const kPrimaryGradientColor = LinearGradient(
   begin: Alignment.topLeft,
